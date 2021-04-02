@@ -1,0 +1,14 @@
+body {
+  background-color: cadetblue;
+}
+
+.clock {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  color: brown;
+  font-family: "Orbitron";
+  font-size: 60px;
+  letter-spacing: 10px;
+}
